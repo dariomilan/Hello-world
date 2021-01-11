@@ -1,0 +1,25 @@
+   COMANDI DI LINUX ALPINE
+ 
+  1) pwd, vedere in che directory ci si trova
+
+  2) cd, change folder, permette di cambiare directory in vari modi (relativo o assoluto)
+                               - cd senza nulla torno alla home /root
+                               - cd . rimando nella directory dove sono
+                               - cd .. torno indietro nella vecchia directory
+                               -cd [con path/specificato] entro in quella directory specificata
+
+  3) ls, permette di vedere tutti i file in base alla directory in cui mi trovo oppure che 
+     specifico manualmente       - ls nella cartella che mi trovo
+                                 - ls..  cartella precedente vedo i file
+                                 - ls [path/specificato] vedo i file scritti nel percorso 
+
+  4) vi, serve per creare un editore di testo che poi verra inizializzaro (ESC + i). poi per 
+    uscire e salvare (ESC + :) e poi wq (write and quite) per salvare ed uscire.
+
+  5) cat, serve solamente per visualizzare un file di testo e va specificato il percorso dove si 
+    trova ( in modo relativo o assoluto).
+
+///////////////////////////////////////////////////////////////////////////////////////////
+
+
+
